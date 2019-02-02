@@ -1,4 +1,4 @@
-# biezhi.me
+# home
 
-https://biezhi.me
+https://www.lijinghua.club
 
